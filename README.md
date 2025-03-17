@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @itsmesant
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning coding and network security
+ # 👋 Hi, I’m SecSan
+## 👀 I’m interested in Cybersecurity
 
 
 <!---
